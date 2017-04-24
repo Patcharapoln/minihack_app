@@ -1,0 +1,44 @@
+.main {
+  width: 800px;
+  height: 80px;
+  margin: auto;
+}
+.first {
+  border: 0.5px solid black;
+  font-style: italic;
+  background-image: url('/images/background.jpg');
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-position:30% 50%;
+}
+
+.second {
+  border: 0.5px solid black;
+  font-style: italic;
+  background-image: url('/images/background.jpg');
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-position:30% 50%;
+}
+
+.third {
+  border: 0.5px solid black;
+ font-style: italic;
+ background-image: url('/images/background.jpg');
+ background-repeat:no-repeat;
+ background-attachment:fixed;
+ background-position:30% 50%;
+}
+
+.forth {
+  border: 0.5px solid black;
+  font-style: italic;
+  background-image: url('/images/background.jpg');
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-position:30% 50%;
+}
+
+.answer {
+  margin: auto;
+}

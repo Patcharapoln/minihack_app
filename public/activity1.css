@@ -1,0 +1,49 @@
+* {
+  font-style: italic;
+}
+
+#solution {
+  width: 800px;
+  height: 80px;
+  margin: auto;
+}
+
+.two {
+  border: 0.5px solid black;
+  background-image: url('images/gradient-wallpaper-1.jpg');
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-position:30% 50%;
+}
+
+.three {
+  border: 0.5px solid black;
+  background-image: url('images/gradient-wallpaper-1.jpg');
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-position:30% 50%;
+}
+
+.four {
+  border: 0.5px solid black;
+  background-image: url('images/gradient-wallpaper-1.jpg');
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-position:30% 50%;
+}
+
+.five {
+  border: 0.5px solid black;
+  background-image: url('images/gradient-wallpaper-1.jpg');
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-position:30% 50%;
+}
+
+.six {
+  border: 0.5px solid black;
+  background-image: url('images/gradient-wallpaper-1.jpg');
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-position:30% 50%;
+}
